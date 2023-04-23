@@ -18,7 +18,7 @@ using System.Collections.Generic;
 using IO.ClickSend.ClickSend.Api;
 using IO.ClickSend.ClickSend.Model;
 using IO.ClickSend.Client;
-using System.Reflection;
+using IO.ClickSend.ClickSend.Model;using System.Reflection;
 using Newtonsoft.Json;
 
 namespace IO.ClickSend.Test

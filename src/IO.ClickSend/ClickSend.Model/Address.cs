@@ -23,7 +23,7 @@ using JsonSubTypes;
 using System.ComponentModel.DataAnnotations;
 using ClickSendDateConverter = IO.ClickSend.Client.ClickSendDateConverter;
 
-namespace IO.ClickSend.ClickSend.Model
+namespace IO.ClickSend.ClickSend.Model 
 {
     /// <summary>
     /// Base model for all address-related objects.

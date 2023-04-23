@@ -22,7 +22,7 @@ using Newtonsoft.Json.Converters;
 using System.ComponentModel.DataAnnotations;
 using ClickSendDateConverter = IO.ClickSend.Client.ClickSendDateConverter;
 
-namespace IO.ClickSend.ClickSend.Model
+namespace IO.ClickSend.ClickSend.Model 
 {
     /// <summary>
     /// From Email object.

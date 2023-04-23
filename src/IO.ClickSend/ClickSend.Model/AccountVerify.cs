@@ -23,7 +23,7 @@ using JsonSubTypes;
 using System.ComponentModel.DataAnnotations;
 using ClickSendDateConverter = IO.ClickSend.Client.ClickSendDateConverter;
 
-namespace IO.ClickSend.ClickSend.Model
+namespace IO.ClickSend.ClickSend.Model 
 {
     /// <summary>
     /// Verifies an account by token that should have been sent to the user&#39;s phone

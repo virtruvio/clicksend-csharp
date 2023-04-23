@@ -18,7 +18,7 @@ using RestSharp;
 using NUnit.Framework;
 
 using IO.ClickSend.Client;
-using IO.ClickSend.ClickSend.Api;
+using IO.ClickSend.ClickSend.Model;using IO.ClickSend.ClickSend.Api;
 
 namespace IO.ClickSend.Test
 {
